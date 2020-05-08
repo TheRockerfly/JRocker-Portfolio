@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7573d2e1-7cfb-41c6-be6b-258e822d2b6a" name="Default" comment="Added gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rockerfly-fortnight.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rockerfly-fortnight.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation/Create Folder and Move Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/Create Folder and Move Files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation/Execute Outlook Mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation/Execute Outlook Mail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Excel Work/Create Index and Label Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Excel Work/Create Index and Label Index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Excel Work/Filter NA and Replace elements in df.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Excel Work/Filter NA and Replace elements in df.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Excel Work/Filter by zscore.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Excel Work/Filter by zscore.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Excel Work/Group Order and plot data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Excel Work/Group Order and plot data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Excel Work/Group by and Groupby Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Excel Work/Group by and Groupby Calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Excel Work/Map Dictionary Values to Column.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Excel Work/Map Dictionary Values to Column.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Excel Work/Pivot Values from a df.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Excel Work/Pivot Values from a df.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Excel Work/Reading Multiple Dataframes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Excel Work/Reading Multiple Dataframes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Excel Work/Stacking and Unstacking dataframes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Excel Work/Stacking and Unstacking dataframes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Large Data Management/Reading Data as Chunks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Large Data Management/Reading Data as Chunks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Lists Management/Applying a function to each item in a list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Lists Management/Applying a function to each item in a list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Lists Management/Enumerate List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Lists Management/Enumerate List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Management/Lists Management/Zipping Lists Together.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Management/Lists Management/Zipping Lists Together.py" afterDir="false" />
+    <list default="true" id="7573d2e1-7cfb-41c6-be6b-258e822d2b6a" name="Default" comment="Trying to fix a whole bunch of things but still has a lot to work on">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +20,11 @@
     <SUITE FILE_PATH="coverage/rockerfly_fortnight$Editting_Image_Extent_and_Aspect_Data.coverage" NAME="Editting Image Extent and Aspect Data Coverage Results" MODIFIED="1529857669620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Mining/Image Analyzing" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -340,7 +328,8 @@
     <MESSAGE value="attempts to make it more functional" />
     <MESSAGE value="attempt to make things more functional" />
     <MESSAGE value="update requirements and gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="update requirements and gitignore" />
+    <MESSAGE value="Trying to fix a whole bunch of things but still has a lot to work on" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to fix a whole bunch of things but still has a lot to work on" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
