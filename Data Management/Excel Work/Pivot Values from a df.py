@@ -21,6 +21,6 @@ print(pivot)
 calculated = df.pivot(index='', columns='', values='', aggfunc= sum)
 print(calculated)
 
-# We can aggregate and summerize data as well
+# We can aggregate and summarize data as well
 Total = df.pivot_table(index='', aggfunc= sum, margins=True)
 print(Total)

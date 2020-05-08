@@ -5,7 +5,7 @@ Created on Thu Mar 15 07:04:29 2018
 @author: James
 """
 
-#creates an enumerator list which can be used to create an index of a list
+# creates an enumerator list which can be used to create an index of a list
 
 data1 = ['charles xavier', 
             'bobby drake', 

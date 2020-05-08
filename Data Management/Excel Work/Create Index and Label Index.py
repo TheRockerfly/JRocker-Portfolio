@@ -11,7 +11,7 @@ df = pd.read_csv(filename, index_col='')
 # Generate the list of months: months
 months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun']
 
-# Assign months to sales.index thus generating an index for the dataframe
+# Assign months to sales.index thus generating an index for the data frame
 df.index = months
 
 # Print the modified sales DataFrame
@@ -27,7 +27,7 @@ print(df)
 # Assign the string 'PRODUCTS' to sales.columns.name 
 df.columns.name = 'PRODUCTS'
 
-# Print the sales dataframe again
+# Print the sales data frame again
 print(df)
 
 

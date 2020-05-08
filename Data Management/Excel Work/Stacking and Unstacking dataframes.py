@@ -23,19 +23,19 @@ df = df.unstack(level='county')
 print(df)
 
 # By stacking and unstacking the data is stacked by different levels
-# Now we are going to change the index using swaplevel
+# Now we are going to change the index using swap level
 
-# Swap the levels of the index of newusers: newusers
-df1 = df.swaplevel(0, 1)
+# Swap the levels of the index of new users: new users
+df_1 = df.swaplevel(0, 1)
 
-# Print newusers and verify that the index is not sorted
-print(df1)
+# Print new users and verify that the index is not sorted
+print(df_1)
 
-# Sort the index of newusers: newusers
-df1 = df1.sort_index()
+# Sort the index of new users: new users
+df_1 = df_1.sort_index()
 
-# Print newusers and verify that the index is now sorted
-print(df1)
+# Print new users and verify that the index is now sorted
+print(df_1)
 
-# Test that the dataframe is equal to another 
-print(df.equals(df1))
+# Test that the data frame is equal to another
+print(df.equals(df_1))

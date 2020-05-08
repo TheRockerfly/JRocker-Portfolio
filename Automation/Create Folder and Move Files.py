@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on Wed Mar 14 11:22:00 2018
 
@@ -20,6 +19,7 @@ TextDoc = ("Text Document" + yesterday.strftime('%d-%b-%Y') + ".txt")
 CSVDoc = ("CSV Document" + Today.strftime('%d-%m-%Y') + ".csv")
 
 f = (r"C:\Users\\" + user_name + r"\Documents\Log Files\\" + Today.strftime('%d-%b-%Y'))
+print(f)
 if not os.path.exists(f):
     os.makedirs(f)
 try:

@@ -28,5 +28,3 @@ df2 = df.groupby(df1[''])
 
 # Calculating data based on the new grouped dataframe
 print(df2[''].mean())
-
-# 

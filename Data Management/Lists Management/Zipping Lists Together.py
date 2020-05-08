@@ -5,17 +5,17 @@ Created on Thu Mar 15 07:49:20 2018
 @author: James
 """
 
-data1 = ('charles xavier', 
-            'bobby drake', 
-            'kurt wagner', 
-            'max eisenhardt', 
-            'kitty pride')
+data1 = ('charles xavier',
+         'bobby drake',
+         'kurt wagner',
+         'max eisenhardt',
+         'kitty pride')
 
 data2 = ('bald',
-        'unknown',
-        'blue',
-        'german?',
-        'spooky')
+         'unknown',
+         'blue',
+         'german?',
+         'spooky')
 
 # Create a zip object from data1 and data2: z1
 z1 = zip(data1, data2)

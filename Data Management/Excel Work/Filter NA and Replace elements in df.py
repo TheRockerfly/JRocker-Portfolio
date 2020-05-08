@@ -25,9 +25,11 @@ print(df.dropna(how='all').shape)
 # Drop column if 1000 values are na
 print(df.dropna(thresh=1000, axis='columns').info())
 
+
 # Applying a function to every element in a column
-def to_celsius(F):
-    return 5/9*(F - 32)
+def to_celsius(f):
+    return 5/9*(f - 32)
+
 
 # Apply the function over the columns
 df_celsius = df[['Mean TemperatureF','Mean Dew PointF']].apply(to_celsius)
